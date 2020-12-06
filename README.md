@@ -2,6 +2,7 @@ Progetto sviluppato in puro PHP, CSS e Javascript (jQuery) e SQL
 
 Il progetto simula il funzionamento di un sistema per la gestione di un ristorante.
 
+https://food-ordering-demo-php.herokuapp.com/
 http://localhost/food-ordering/index.php
 
 Ci sono 3 entità:  
